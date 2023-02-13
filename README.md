@@ -1,5 +1,12 @@
 # Graduation-Project هذا المشروع (غير مفتوح المصدر)
 
+
+# فكرة المشرع
+
+  - تطبيق اندرويد يعمل كـ بطاقة تعريف جامعية، توثق بيانات الطالب وتمكنه من استعمال الخدمات التي تقدمها الجامعة من مطعم، نادي رياضي، مكتبة، ...
+  وكذلك يمّكن الطالب من ان يستخدم خدمة التحضير من خلال جهاز ماسح لباركود الطالب.
+
+
 ![Screen Shot 1444-07-22 at 3 39 28 PM](https://user-images.githubusercontent.com/121777573/218464856-01f30a73-a158-4e29-843d-b03ce088ed73.png)
 ![Screen Shot 1444-07-22 at 3 39 33 PM](https://user-images.githubusercontent.com/121777573/218464882-b703eaf6-978a-4f42-945f-ada5656a4637.png)
 ![Screen Shot 1444-07-22 at 3 39 38 PM](https://user-images.githubusercontent.com/121777573/218464883-3f848536-99c4-454c-9e66-dca5bde45b8d.png)
